@@ -21,6 +21,9 @@
 </p>
 
 
+ ## Projects!  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexion2001&repo=SnakeAcademy-EducationalPlatform)](https://github.com/alexion2001/SnakeAcademy-EducationalPlatform)
 
 
  
