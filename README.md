@@ -2,7 +2,7 @@
 
 :computer: :wrench: I'm a software engineer based in Bucharest, Romania.
 
-:rocket: Current role: Software Engineer @ METRO.digital.
+:rocket: Current role: Software Engineer @ Ascenta IT
 
 :robot: Teaching assistant for Introductory in Robotics  @ University of Bucharest
 
